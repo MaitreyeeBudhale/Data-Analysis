@@ -12,8 +12,6 @@ A comprehensive project focused on analyzing job listings to uncover insights ab
 
 * To visualize job distributions by location and skill sets using charts.
 
-* To filter job listings based on specific keywords like "Python" or "Remote."
-
 * To gain insights that can guide job seekers in targeting relevant skills and locations.
 
 * To lay the foundation for future enhancements like job recommendation systems.
@@ -64,14 +62,6 @@ A comprehensive project focused on analyzing job listings to uncover insights ab
 
 ---
 
-## 💡 Sample Insights
-
-- Top tech skills in demand across job postings
-- Most common cities hiring tech talent
-- Jobs that mention multiple in-demand tools (like Python + SQL + ML)
-
----
-
 ## 🌟 Future Work
 
 - 🔍 Skill-based job recommender system
@@ -90,17 +80,28 @@ A comprehensive project focused on analyzing job listings to uncover insights ab
 ## 🧠 Author
 
 **Maitreyee Budhale**  
-B.Tech CSBS Student | Curious about Data | Passionate about Tech
-
+B.Tech CSBS Student
 ---
 
 ## 🖼️ Preview
 
->
+> ![Top 5 Companies by Average Reviews](https://github.com/user-attachments/assets/fea17764-b7ae-4a46-bbfc-6c7e0ec17e00)
+
+
+![Top 10 Skills in Demand](https://github.com/user-attachments/assets/300a8cf3-1c3a-478a-af69-615a18f80804)
+
+
+![Top 10 Skills for Data Analysts](https://github.com/user-attachments/assets/f90c1b8e-adb2-4f03-b5cf-9183fdd6da90)
+
+
+![Top 10 Skills for Data Scientists](https://github.com/user-attachments/assets/1ad7ca74-29c7-4d4d-8af5-bccd5be3df60)
+
 
 ---
 
 ## 💬 Let's Connect!
 
-Wanna collab or just say hi? Drop a message! 🌸
+Wanna collab or just say hi? Drop a message! 
+---
+LinkedIn Profile www.linkedin.com/in/maitreyee-budhale-40b01a2a4
 
