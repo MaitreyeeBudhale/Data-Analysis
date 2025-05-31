@@ -17,10 +17,10 @@ A collection of comprehensive data analysis projects designed to uncover insight
 
 
 ## 📁 Project Structure
-  **📌 1. Job Data Analysis**
+  - **📌 1. Job Data Analysis**
   **Focus:** Understand hiring trends, in-demand skills, and job locations.
   
-  **📌 2. Crime Data Analysis**
+  - **📌 2. Crime Data Analysis**
   **Focus:** Explore crime statistics (e.g., rape cases by region and year).
 
 _...More projects coming soon! Stay tuned 🔍✨_
