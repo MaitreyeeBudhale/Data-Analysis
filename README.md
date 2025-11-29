@@ -18,14 +18,18 @@ A collection of comprehensive data analysis projects designed to uncover insight
 
 ## 📁 Project Structure
   - **📌 1. Job Data Analysis**
-  **Focus:** Understand hiring trends, in-demand skills, and job locations.
+    
+    **Focus:** Understand hiring trends, in-demand skills, and job locations.
 
   
   - **📌 2. Crime Data Analysis**
-  **Focus:** Explore crime statistics (e.g., rape cases by region and year).
+    
+    **Focus:** Explore crime statistics (e.g., rape cases by region and year).
 
 
   - **📌 3. IMDB Reviews Data Analysis (Generating WordCloud)**
+
+  - **📌 4. Retail Store Inventory Data Analysis**
   
     
 _...More projects coming soon! Stay tuned 🔍✨_
