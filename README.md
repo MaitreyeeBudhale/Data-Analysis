@@ -68,7 +68,6 @@ _...More projects coming soon! Stay tuned 🔍✨_
 
 ## 🌟 Future Plans
 - 📊 Add more dataset case studies
-- 🧠 Build machine learning-based recommendations
 - 🌐 Launch interactive dashboards using Streamlit
 - 📦 Integrate live data scraping with BeautifulSoup / Selenium
 ---
@@ -76,6 +75,7 @@ _...More projects coming soon! Stay tuned 🔍✨_
 ## 📚 Acknowledgements
 
 - Dataset by [AshishJangra27](https://github.com/AshishJangra27) and other open-source sources
+- Datasets from Kaggle
 - Inspired by real-world job search trends and data science use cases
 
 ---
