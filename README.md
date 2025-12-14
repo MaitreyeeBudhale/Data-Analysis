@@ -30,6 +30,10 @@ A collection of comprehensive data analysis projects designed to uncover insight
   - **📌 3. IMDB Reviews Data Analysis (Generating WordCloud)**
 
   - **📌 4. Retail Store Inventory Data Analysis**
+
+  - **📌 5. Student Performance Data Analysis**
+    
+    **Focus:** Conduct Hypothesis Testing to understand how different factors affect the student's performace in exam.
   
     
 _...More projects coming soon! Stay tuned 🔍✨_
